@@ -64,6 +64,7 @@ body {
     border: 1px solid var(--color-secondary);
     background-color: white;
     margin: auto;
+    margin-top: 1rem;
 }
 
 #btn-translate:hover {
