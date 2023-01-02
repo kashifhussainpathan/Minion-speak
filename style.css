@@ -2,7 +2,6 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    display: grid;
     place-content: center;
     margin: 0;
 }
@@ -31,7 +30,7 @@ body {
     color: var(--color-secondary);
     text-align: center;
     display: inline-block;
-    width: 90%;
+    width: 87%;
     margin: auto;
 }
 
@@ -55,6 +54,7 @@ body {
     font-size: 1.2rem;
     display: block;
     margin-bottom: 1.2rem;
+    margin-top: 2rem;
 }
 
 #btn-translate {
@@ -89,7 +89,7 @@ body {
     border: 2px solid var(--color-secondary);
     color: var(--color-primary);
     font-size: 1.2rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
 }
 
 .footer {
